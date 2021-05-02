@@ -1,1 +1,1 @@
-First download Creditcard_Approval.iypnb file, then download credit-approval_csv - pandas dataset file. Open the Creditcard-Approval.iypnb file using juypter notebook. Change the file location of the dataset file in the code. After completing these steps,the code will work properly.   
+First download Creditcard_Approval.iypnb file, then download credit-approval_csv - pandas dataset file. Open the Creditcard-Approval.iypnb file using juypter notebook. Change the file location of the dataset file in the code. After completing these steps,then the code will work.   
